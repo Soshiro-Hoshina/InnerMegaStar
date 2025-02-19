@@ -158,6 +158,8 @@ header .navbar {
     max-width:  70%;
     margin: 24px 0 40px;
     font-size: var(--font-size-m);
+    text-align: justify;
+    
 }
 
 .hero-section .hero-details .buttons {
@@ -220,13 +222,13 @@ header .navbar {
 }
 
 .about-section .about-details{
-    max-width: 50%;
+    max-width: 75%;
 }
 
 .about-section .about-details .text {
-    line-height: 30px;
-    margin: 50px 0 30px;
-    text-align: center;
+    line-height: 25px;
+    margin: 50px 0 50px;
+    text-align: justify;
     font-size: var(--font-size-m);
 }
 .about-section .social-link-list {
